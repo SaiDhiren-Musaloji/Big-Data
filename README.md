@@ -13,7 +13,6 @@ The workflow is optimized for distributed computation using Hadoop, with perform
 ## Repository Structure
 ```
 map-reduce/
-├── bin.py (Deleted, if any)
 ├── job.properties
 ├── workflow.xml
 ├── command.txt
